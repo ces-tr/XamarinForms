@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTest", "XamTest\XamTest.csproj", "{418008DD-18BE-4428-8926-22B2BA913520}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTest.Droid", "Droid\XamTest.Droid.csproj", "{A3FE6B95-01AD-4516-BCD9-453A4DD99093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamTest.UITests", "UITests\XamTest.UITests.csproj", "{780A0696-FE4D-48A3-B57A-18E5EC85C16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{418008DD-18BE-4428-8926-22B2BA913520}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418008DD-18BE-4428-8926-22B2BA913520}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418008DD-18BE-4428-8926-22B2BA913520}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418008DD-18BE-4428-8926-22B2BA913520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{780A0696-FE4D-48A3-B57A-18E5EC85C16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{780A0696-FE4D-48A3-B57A-18E5EC85C16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{780A0696-FE4D-48A3-B57A-18E5EC85C16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{780A0696-FE4D-48A3-B57A-18E5EC85C16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FE6B95-01AD-4516-BCD9-453A4DD99093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FE6B95-01AD-4516-BCD9-453A4DD99093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FE6B95-01AD-4516-BCD9-453A4DD99093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FE6B95-01AD-4516-BCD9-453A4DD99093}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
